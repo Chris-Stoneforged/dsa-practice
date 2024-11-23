@@ -1,0 +1,7 @@
+rust/target
+csharp/bin
+csharp/obj
+csharp/.DS_Store
+javascript/node_modules
+.DS_Store
+python/.venv
